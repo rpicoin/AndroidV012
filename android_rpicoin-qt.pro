@@ -45,9 +45,9 @@ android {
         message("Using Android settings")
 
         # change to your own path, where you will store all needed libraries with 'git clone' commands below.
-        MAIN_PATH = /home/woolong/deps
+        MAIN_PATH = /home/yourusername/deps
         # change to your own Android NDK path
-        NDK_PATH = /home/woolong/deps/android-ndk-r13b
+        NDK_PATH = /home/yourusername/deps/android-ndk-r13b
 
         # git clone https://github.com/PurpleI2P/MiniUPnP-for-Android-Prebuilt.git
         # git clone git@github.com:hypnosis-i2p/android-ifaddrs-from-android-source.git
