@@ -1,0 +1,9 @@
+Building RPICoin
+
+See doc/readme-qt.rst for instructions on building RPICoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RPICoin.
+
+See doc/build-*.txt for instructions on building rpicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RPICoin.
